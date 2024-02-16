@@ -43,11 +43,11 @@ The solutions are provided in Python.
 ⬛ : Very Hard
 <br/>
 
-|  | Problem Statement | Difficulty | Solution |
-| :------: | ----------------- | :--------: | -------- |
-| :star: | Two Number Sum | 🟩 | [two-number-sum.py](https://github.com/das-jishu/algoexpert-data-structures-algorithms/blob/master/Easy/twoNumberSum.py) |
-| :star: | Validate Subsequence | 🟩 | [validate-subsequence.py](https://github.com/das-jishu/algoexpert-data-structures-algorithms/blob/master/Easy/validate-subsequence.py) |
-| :star: | Tournament Winner | 🟩 | [tournament-winner.py](https://github.com/das-jishu/algoexpert-data-structures-algorithms/blob/master/Easy/tournament-winner.py) |
+|  | Problem Statement | Difficulty | Solution | Leetcode problem |
+| :------: | ----------------- | :--------: | -------- | -------- |
+| :star: | Two Number Sum | 🟩 | [two-number-sum.py](https://github.com/das-jishu/algoexpert-data-structures-algorithms/blob/master/Easy/twoNumberSum.py) | [1](https://leetcode.com/problems/two-sum/description/) |
+| :star: | Validate Subsequence | 🟩 | [validate-subsequence.py](https://github.com/das-jishu/algoexpert-data-structures-algorithms/blob/master/Easy/validate-subsequence.py) | [392](https://leetcode.com/problems/is-subsequence/description/) |
+| :star: | Tournament Winner | 🟩 | [tournament-winner.py](https://github.com/das-jishu/algoexpert-data-structures-algorithms/blob/master/Easy/tournament-winner.py) | |
 | :star: | Non-Constructible Change | 🟩 | [non-constructible-change.py](https://github.com/das-jishu/algoexpert-data-structures-algorithms/blob/master/Easy/non-constructible-change.py) |
 | :star: | Find Closest Value in BST | 🟩 | [closest-in-BST.py](https://github.com/das-jishu/algoexpert-data-structures-algorithms/blob/master/Easy/find-closest-value-in-BST.py) |
 | :star: | Branch Sums | 🟩 | [branch-sums.py](https://github.com/das-jishu/algoexpert-data-structures-algorithms/blob/master/Easy/branch-sums.py) |
